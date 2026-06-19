@@ -1,0 +1,7 @@
+Create a square open-source project logo for a tool named "MarkForge".
+Purpose: GitHub repository identity for a Codex skill that refines Chinese Markdown documents.
+Subject: an abstract forged document mark combining a folded page, structured heading lines, and a subtle craft or forge motif.
+Composition: centered symbol only, no background scene, no text, no letters, no watermark.
+Style: clean geometric symbol, modern open-source tooling aesthetic, crisp edges, premium but simple, suitable for README display and avatar use.
+Lighting and color: flat or softly shaded vector-like look, deep slate blue, teal, and warm copper accents on a light transparent-friendly background.
+Avoid: mascots, people, photorealism, busy textures, 3D mockups, interface screenshots, random glyphs, unreadable text.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown Doc Polisher"
+  short_description: "按三档强度优化 Markdown 文档的排版、结构与内容"
+  default_prompt: "Use $markdown-doc-polisher to refine this Markdown document at level 2 while preserving heading numbering, formal tone, and core meaning."

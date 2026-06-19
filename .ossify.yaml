@@ -1,0 +1,14 @@
+github_user: "wsj040303"
+license: MIT
+description: "A Codex skill for controlled polishing of Chinese Markdown documents with explicit editing levels."
+
+logo:
+  api: "micu"
+  base_url: "from-codex-env"
+  model: "gpt-image-2"
+  style: clean-symbol
+
+badges:
+  custom:
+    - ["Skill", "Codex", "blue"]
+    - ["Language", "Chinese Markdown", "teal"]
